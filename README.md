@@ -180,13 +180,6 @@ Covariance estimator: robust
 
 - Thus; the risk tollerance of the portfolio would deteremine my choice. If the portfolio can withstand the potential risk the mdoel does forcast a postive trend or buy. 
 
-- Based on the anlayis above:
-    1. The ARIMA model does predict that the price will increase in the near term from 9224 and 9228.
-    2. However; the GARH model indicated that is the risk is expected to increase.
-    3. The ARIMA, ARMA, and GARH model all fit the p-value test as well I am able to forcesta both price and risk. 
-    
-- Conclusion:
-    - The risk tollerance of the portfolio would deteremine my choice. If the portfolio can withstand the potential risk the mdoel does forcast a postive trend or buy. 
 ----
 ## Regression Analysis: Seasonal Effects with Sklearn Linear Regression
 Build a SKLearn linear regression model to predict Yen futures ("settle") returns with lagged Yen futures returns.
